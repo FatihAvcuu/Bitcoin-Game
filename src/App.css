@@ -1,0 +1,26 @@
+.logo{
+    width: 100%;
+    
+}
+.inp{
+    background-color: transparent;
+}
+.otopadding{
+    padding-top: 0px;
+}
+.align-v{
+    padding-top: 10px;
+    float: right;
+    padding-right: 10px;
+}
+.pdn{
+    padding-left: 70px;
+}
+@media screen and (max-width:900px) {
+    .otopadding{
+        padding-top: 50px;
+    }
+    .pdn{
+        padding-left: 10px;
+    }
+}
